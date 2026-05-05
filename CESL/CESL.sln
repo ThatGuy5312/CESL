@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CESL", "CESL\CESL.csproj", "{A258C66D-DD78-4259-BC4B-6FEB262E830A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CESLTest", "CESLTest\CESLTest.csproj", "{EA2BF0B5-1B4D-442E-861B-3DF9EE456E65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A258C66D-DD78-4259-BC4B-6FEB262E830A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A258C66D-DD78-4259-BC4B-6FEB262E830A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A258C66D-DD78-4259-BC4B-6FEB262E830A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A258C66D-DD78-4259-BC4B-6FEB262E830A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2BF0B5-1B4D-442E-861B-3DF9EE456E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2BF0B5-1B4D-442E-861B-3DF9EE456E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2BF0B5-1B4D-442E-861B-3DF9EE456E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2BF0B5-1B4D-442E-861B-3DF9EE456E65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CBF94B-A1EB-4A0E-9CA6-B3E5E5C020D2}
+	EndGlobalSection
+EndGlobal
